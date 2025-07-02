@@ -1,0 +1,12 @@
+{
+  "name": "make-a-task-eu58bx",
+  "version": "1.0.0",
+  "description": "Generated project for make-a-task-eu58bx",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
